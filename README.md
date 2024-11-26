@@ -1,4 +1,4 @@
-# Developing a Machine Learning-Based Algorithm for Assessing Enterprise Promisingness
+# Developing a Machine Learning-Based Algorithm for Assessing Enterprise Promisingness_sub study 1
 project
 
 ## Purpose

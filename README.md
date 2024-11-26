@@ -1,4 +1,4 @@
-# Developing a Machine Learning-Based Algorithm for Assessing Enterprise Promisingness
+# Developing a Machine Learning-Based Algorithm for Assessing Enterprise Promisingness_sub study 1
 project
 
 ## Purpose
@@ -7,8 +7,8 @@ project
 ## Methodology
 GNN 모델을 통해 거래 정보를 압축한 점수를 산출하여 이를 유망 기업(향후 3년간 매출액이 연평균 20% 이상 증가할 것으로 예상되는 기업) 예측에 활용
 
-	Model : ML 모델(Random Forest), DL 모델(GNN-GraphSAGE)
-	Dataset : 기업 별 재무 데이터 및 거래 데이터 (비공개)
+  - Model : ML 모델(Random Forest), DL 모델(GNN-GraphSAGE)
+  - Dataset : 기업 별 재무 데이터 및 거래 데이터 (비공개)
 
 ## Result
 1. 1년 후 유망 기업 예측 성능이 기존 방식보다 평균 1.52%p 성능 향상 확인
